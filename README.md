@@ -1,13 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there 👋
+  <a href="https://www.linkedin.com/in/killian-larcher-b9271a252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </h1>
+  
+</div>
+
+
+### 🚀 About me
 
 - 🔭 I’m currently working on web an app development (website, mobile app, API Restful)
 - 🌱 I’m currently learning React Native library for a cross-plateform app !
 
 
-:mailbox:How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-KillianLarcher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/killian-larcher-b9271a252/)
-
 ---
-### :man_technologist: About Me :
+### :man_technologist: Skills and achievements :
 
 - Mobile App with React Native : GPS position on an interactive map, payment gateway (Stripe)
 - Backend : API RESTful (PHP and Django), Web Sockets (PHP and Node.js)
