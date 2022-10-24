@@ -3,7 +3,18 @@
 - 🔭 I’m currently working on web an app development (website, mobile app, API Restful)
 - 🌱 I’m currently learning React Native library for a cross-plateform app !
 
+---
+### :man_technologist: About Me :
+
+- Mobile App with React Native : GPS position on an interactive map, payment gateway (Stripe)
+- Backend : API RESTful (PHP and Django), Web Sockets (PHP and Node.js)
+- Server administration : containerization (Docker and Kubernetes)
+- Robotic : integration of ROS on an intelligent agricultural robot, Engine control by STM32 (STMicroelectronics)
+- Artificial Intelligence : Deep Learning for objects detection
+
+---
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
