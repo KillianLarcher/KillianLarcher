@@ -9,17 +9,17 @@
 
 ### 🚀 About me
 
-- 🔭 I’m currently working on mobile app and Django API !
+- 🔭 I’m currently working on mobile app and Django Rest Framework !
 - 🌱 I’m also learning new skills in robotics with ROS !
 
 ---
 ### :man_technologist: Skills and achievements :
 
-- Mobile App with React Native : GPS position on an interactive map, payment gateway (Stripe)
+- Mobile App with React Native : interactive map with geolocalisation, marketplace with online payments (Stripe) and QR Code generation 
 - Backend : API RESTful (PHP and Django), Web Sockets (PHP and Node.js)
-- Server administration : containerization (Docker and Kubernetes)
-- Robotic : integration of ROS on an intelligent agricultural robot, Engine control by STM32 (STMicroelectronics)
-- Artificial Intelligence : Deep Learning for objects detection
+- Linux Server administration : containerization (Docker and Kubernetes)
+- Robotic : integration of ROS on an intelligent agricultural robot, engine control by STM32 (STMicroelectronics)
+- Artificial Intelligence : Deep Learning with PyTorch for objects detection and autonomous navigation
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </p>
 </div>
