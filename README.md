@@ -18,7 +18,7 @@
 - Backend : API RESTful (PHP and Django), Web Sockets (PHP and Node.js)
 - Linux Server administration : containerization (Docker and Kubernetes)
 - Robotic : integration of ROS on an intelligent agricultural robot, engine control by STM32 (STMicroelectronics)
-- Artificial Intelligence : Deep Learning with PyTorch for objects detection and autonomous navigation
+- Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and autonomous navigation
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <br>
