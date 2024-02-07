@@ -22,7 +22,13 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <br>
-<div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flask,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
+  </a>
+</p>
+<!-- <div>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -59,4 +65,4 @@
 
   
   </p>
-</div>
+</div> -->
