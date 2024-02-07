@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋 &nbsp &nbsp
-  <a href="https://www.linkedin.com/in/killian-larcher-b9271a252/">
+  <a href="https://www.linkedin.com/in/killian-larcher/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </h1>
@@ -14,11 +14,10 @@
 ---
 ### :man_technologist: Skills and achievements :
 
-- Mobile App with React Native : interactive map with geolocalisation, marketplace with online payments (Stripe) and QR Code generation 
+- Mobile App with React Native : interactive map (geolocalisation), online payments (Stripe, Paystack) and QR Code generation 
 - Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (SocketIO) for instant chats
 - Linux Server administration : containerization and orchestration of micro-services (Docker and Kubernetes)
-- Robotic : development of agricultural robot with ROS Noetic, engine control by STM32 (STMicroelectronics)
-- Cobotic : automonous bin-picking of various objects with UR-10 (Universal Robots)
+- Robotic/Cobotic : development of agricultural robot on ROS Noetic, automonous bin-picking with UR-10, engine control by STM32
 - AI : Deep Learning with YOLOv8 for objects detection and autonomous navigation, lightweight SVM for classification
 ---
 ### :hammer_and_wrench: Languages and Tools :
