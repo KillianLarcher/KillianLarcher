@@ -9,16 +9,17 @@
 
 ### 🚀 About me
 
-- 🔭 I’m currently working on mobile app and Django Rest Framework !
+- 🔭 I’m currently working on web projects !
 - 🌱 I’m also learning new skills in robotics with ROS !
 ---
 ### :man_technologist: Skills and achievements :
 
 - Mobile App with React Native : interactive map with geolocalisation, marketplace with online payments (Stripe) and QR Code generation 
-- Backend : API RESTful (PHP and Django), Web Sockets (PHP and Node.js)
-- Linux Server administration : containerization (Docker and Kubernetes)
-- Robotic : integration of ROS on an intelligent agricultural robot, engine control by STM32 (STMicroelectronics)
-- Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and autonomous navigation
+- Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (SocketIO) for instant chats
+- Linux Server administration : containerization and orchestration of micro-services (Docker and Kubernetes)
+- Robotic : development of agricultural robot with ROS Noetic, engine control by STM32 (STMicroelectronics)
+- Cobotic : automonous bin-picking of various objects with UR-10 (Universal Robots)
+- AI : Deep Learning with YOLOv8 for objects detection and autonomous navigation, lightweight SVM for classification
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <br>
