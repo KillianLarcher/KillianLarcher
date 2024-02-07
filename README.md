@@ -16,7 +16,7 @@
 
 - Mobile App with React Native : interactive map (geolocalisation), online payments (Stripe, Paystack) and QR Code generation 
 - Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (SocketIO) for instant chats
-- Linux Server administration : containerization and orchestration of micro-services (Docker and Kubernetes)
+- Linux Server administration : containerization and orchestration of multiple micro-services (Docker, Kubernetes, Traefik)
 - Robotic/Cobotic : development of agricultural robot on ROS Noetic, automonous bin-picking with UR-10, engine control by STM32
 - AI : Deep Learning with YOLOv8 for objects detection and autonomous navigation, lightweight SVM for classification
 ---
