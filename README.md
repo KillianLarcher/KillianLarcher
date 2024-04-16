@@ -9,13 +9,12 @@
 
 ### 🚀 About me
 
-- 🔭 I’m currently working on web projects !
-- 🌱 I’m also learning new skills in robotics with ROS !
+- 🔭 I’m currently working on web projects in my own company.
 ---
 ### :man_technologist: Skills and achievements :
 
 - Mobile App with React Native : interactive map (geolocalisation), online payments (Stripe, Paystack) and QR Code generation 
-- Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (SocketIO) for instant chats
+- Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (Django Channels, SocketIO) for instant chats
 - Linux Server administration : containerization and orchestration of multiple micro-services (Docker, Kubernetes, Traefik)
 - Robotic/Cobotic : development of agricultural robot on ROS Noetic, automonous bin-picking with UR-10, engine control by STM32
 - AI : Deep Learning with YOLOv8 for objects detection and autonomous navigation, lightweight SVM for classification
