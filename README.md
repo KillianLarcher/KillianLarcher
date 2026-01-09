@@ -41,6 +41,6 @@ Our work covers full-stack development, cloud and container orchestration, appli
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,androidstudio,bash,django,electron,express,flask,gitlab,grafana,linux,mysql,postgresql,nodejs,postman,prometheus,py,raspberrypi,react,ts,vite,redux,ros" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,androidstudio,bash,django,electron,express,flask,gitlab,grafana,linux,mysql,postgresql,nodejs,postman,prometheus,py,raspberrypi,react,ts,vite,redux,ros,rust" />
   </a>
 </p>
