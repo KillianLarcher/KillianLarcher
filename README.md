@@ -1,29 +1,46 @@
 <div align="center">
-  <h1>Hi there 👋 &nbsp &nbsp
-  <a href="https://www.linkedin.com/in/killian-larcher/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <h1>Hi there 👋 &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/killian-larcher/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   </h1>
-  
 </div>
 
 ### 🚀 About me
 
-- 🔭 I’m currently working on web projects in my own company.
----
-### :man_technologist: Skills and achievements :
+I’m **co-founder of Soluce Technologies**, where we design and build web and software solutions for SMEs and startups.  
+Our work covers full-stack development, cloud and container orchestration, applied AI, and robotics.
 
-- Mobile App with React Native : interactive map (geolocalisation), online payments (Stripe, Paystack) and QR Code generation 
-- Backend : API RESTful for various projects (Django, FastAPI, Express) and Web Sockets (Django Channels, SocketIO) for instant chats
-- Linux Server administration : containerization and orchestration of multiple micro-services (Docker, Kubernetes, Traefik)
-- Robotic/Cobotic : development of agricultural robot on ROS Noetic, automonous bin-picking with UR-10, engine control by STM32
-- AI : Deep Learning with YOLOv8 for objects detection and autonomous navigation, lightweight SVM for classification
 ---
-### :hammer_and_wrench: Languages and Tools :
-<br>
+
+### 💼 Skills & Experience
+
+- **Mobile & Web Development**
+  - Mobile applications with React Native (interactive maps, geolocation, online payments with Stripe & Paystack, QR code generation)
+  - Backend APIs (Django, FastAPI, Express)
+  - Real-time systems using WebSockets (Django Channels, Socket.IO)
+
+- **DevOps & Infrastructure**
+  - Linux server administration
+  - Containerization and orchestration of microservices (Docker, Kubernetes, Traefik)
+  - Monitoring and observability (Prometheus, Grafana)
+
+- **Robotics & Embedded Systems**
+  - Agricultural robotics using ROS Noetic
+  - Autonomous bin-picking systems with UR-10
+  - Embedded motor control and low-level systems with STM32
+
+- **Artificial Intelligence**
+  - Object detection and autonomous navigation with YOLOv8
+  - Lightweight SVM models for classification
+  - LLM fine-tuning for domain-specific business logic
+
+---
+
+### 🛠 Languages & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flask,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,androidstudio,bash,django,electron,express,flask,gitlab,grafana,linux,mysql,postgresql,nodejs,postman,prometheus,py,raspberrypi,react,ts,vite,redux,ros" />
   </a>
 </p>
